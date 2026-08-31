@@ -1,10 +1,9 @@
 # Webutvikling – HTML & CSS
 
-Kursmateriell til innføringskurs i HTML og CSS for Vg1 informasjonsteknologi og medieproduksjon,
-Elvebakken vgs.
+Kursmateriell til innføringskurs i HTML og CSS for Vg1 informasjonsteknologi og medieproduksjon. 
 
 Kurset går over tre perioder, bruker VS Code + Live Server, og dekker rent HTML og CSS
-(ingen JavaScript). Det avsluttes med en skriftlig prøve uten hjelpemidler med vekt på forståelse.
+(ingen JavaScript). 
 
 ## Innhold
 
